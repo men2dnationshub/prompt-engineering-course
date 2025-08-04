@@ -69,7 +69,7 @@ This project is licensed under the MIT License - see the `LICENSE` file for deta
 
 ---
 
-**Author:** Manus AI
+**Author:** Mfon Nsimah
 **Date:** August 4, 2025
 
 
