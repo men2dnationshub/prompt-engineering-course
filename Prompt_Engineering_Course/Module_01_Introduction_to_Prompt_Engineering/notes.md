@@ -46,15 +46,11 @@ Machine Learning is a subset of AI that enables systems to learn from data witho
 
 ### Deep Learning (DL)
 
-Deep Learning is a subfield of Machine Learning that uses artificial neural networks with multiple layers (hence 
-
-
-the 'deep' in deep learning) to learn representations of data with multiple levels of abstraction. Deep learning has been particularly successful in areas like image recognition, speech recognition, and natural language processing due to its ability to automatically learn complex features from raw data.
+Deep Learning is a subfield of Machine Learning that uses artificial neural networks with multiple layers (hence the 'deep' in deep learning) to learn representations of data with multiple levels of abstraction. Deep learning has been particularly successful in areas like image recognition, speech recognition, and natural language processing due to its ability to automatically learn complex features from raw data.
 
 ### Generative Models
 
 Generative models are a class of AI models that are designed to generate new data instances that resemble the training data. Unlike discriminative models, which are used for classification or regression tasks, generative models learn the underlying distribution of the data. Examples include:
-
 *   **Generative Adversarial Networks (GANs):** Two neural networks (a generator and a discriminator) compete against each other to generate realistic data.
 *   **Variational Autoencoders (VAEs):** Models that learn a compressed representation of data and then use it to generate new data.
 *   **Transformer-based Models:** Architectures like the Transformer, which form the basis of many modern LLMs, are highly effective at generating sequential data like text.
@@ -65,10 +61,7 @@ Large Language Models (LLMs) are a specific type of generative AI model that has
 
 Key characteristics of LLMs:
 
-*   **Scale:** They are 
-
-
-exceptionally large, with billions or hundreds of billions of parameters, which allows them to capture complex patterns in language.
+*   **Scale:** They are exceptionally large, with billions or hundreds of billions of parameters, which allows them to capture complex patterns in language.
 *   **Pre-training:** They undergo an unsupervised pre-training phase where they learn to predict the next word in a sentence or fill in missing words. This process allows them to develop a deep understanding of grammar, syntax, semantics, and even some world knowledge.
 *   **Fine-tuning:** After pre-training, LLMs can be fine-tuned on smaller, task-specific datasets to improve their performance on particular applications (e.g., sentiment analysis, summarization).
 *   **General-Purpose Capabilities:** Due to their vast training, LLMs exhibit remarkable general-purpose capabilities, meaning they can perform a wide variety of language tasks without explicit programming for each one. This is where prompt engineering becomes vital, as it allows users to 'program' the LLM through natural language instructions.
